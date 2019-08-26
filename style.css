@@ -1,0 +1,11 @@
+.done {
+  text-decoration: line-through;
+  color:gray;
+}
+.delete {
+  margin: 3px 15px;
+}
+.text{
+  font-size: 24px;
+  color: gray ;
+}
